@@ -1,2 +1,2 @@
 # MachineLearning
-ML and Deep Learning Algorithms
+ML and Deep Learning Algorithms.
